@@ -15,7 +15,7 @@
 
 ## For Content - Moderators/ Creators
 
-- Please label your commits as per the [commit guidelines]().
+- Please label your commits as per the [commit guidelines](https://github.com/GVP-AI-Club/Organization-Guidelines/blob/master/commit-guidelines.md).
 - Follow the pull request template and make sure you've read the organization guidelines.
 - Add the appropriate label such as ```bugfix``` ```update``` etc.,
 - Check for the comments section for response regarding merging and feedback.
