@@ -4,7 +4,7 @@
 The community and its members must, at all times, comply with all applicable rules and regulations. The community will not condone the activities of members who achieve results through violation of the rule or unethical practices.
 
 ### Expected Behaviour:
-- The community expects its members to conduct themselves in a professional manner. 
+- The community expects its members to conduct themselves in a professional manner otherwise the consequences will be in the hands of the organisers. 
 
 - The community expects that members will perform their duties conscientiously, honestly, and in accordance with the best interests of the community. 
 
